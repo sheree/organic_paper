@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   width="744.09448"
+   height="1052.3622"
+   xml:space="preserve"
+   sodipodi:docname="SFigure8_dddD_tree.svg"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     id="namedview4"
+     showgrid="false"
+     inkscape:document-units="mm"
+     units="mm"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="502.49857"
+     inkscape:cy="543.19892"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10"><sodipodi:guide
+       position="634.98189,54.447222"
+       orientation="0,744.09448"
+       id="guide3861" /><sodipodi:guide
+       position="687.30779,813.8799"
+       orientation="-1052.3622,0"
+       id="guide3863" /><sodipodi:guide
+       position="591.84838,994.19213"
+       orientation="0,-744.09448"
+       id="guide3865" /><sodipodi:guide
+       position="56.568542,767.21086"
+       orientation="1052.3622,0"
+       id="guide3867" /></sodipodi:namedview><g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="orgprofile_genbank_dddD_NJ4"
+     transform="matrix(1.25,0,0,-1.25,0,1052.3622)"><g
+       id="g12"
+       transform="matrix(0.1855,0,0,0.1857,39.723474,613.9503)"><text
+   transform="matrix(1,0,0,-1,1499,-104)"
+   id="text14"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="0 31.0334 62.066799 90.240196 118.4136 143.675 157.3924 188.4258 216.5992 244.7726 278.71799 321.29541 352.3288 380.5022 394.2196 407.93701 436.11041 464.28381 492.45721 520.63062 527.12"
+     y="0"
+     sodipodi:role="line"
+     id="tspan16">FZ99JIT01EMZ7I.gene 1 (1)*</tspan></text>
+
+
+
+<path
+   d="m 1481,-135 0,46 0,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path18"
+   inkscape:connector-curvature="0" /><text
+   transform="matrix(1,0,0,-1,1499,-200)"
+   id="text20"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="0 31.7334 60.6068 98.112198 135.6176 164.491 204.9084 233.7818 262.65521 291.52859 326.17401 355.04739 392.5528 427.19821 461.8436 476.26099 505.1344 534.00781 562.88123 591.75458 598.94397"
+     y="0"
+     sodipodi:role="line"
+     id="tspan22">F0DU8Q401B7CEP.gene 1 (9)*</tspan></text>
+
+
+
+<path
+   d="m 1481,-139 0,-46 0,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path24"
+   inkscape:connector-curvature="0" /><path
+   d="m 1332,-207 0,70 149,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path26"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text28"
+   x="314.19571"
+   y="296"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1599.4188 1642.7355 1671.6479 1688.9641 1700.5084 1729.4208 1758.3333 1787.2455 1816.1581 1842.1584 1856.6146 1885.527 1902.8431 1915.7993 1941.7997 1970.7123 1985.1685 1998.1245 2032.8091 2061.7214 2096.4053 2125.3174"
+     sodipodi:role="line"
+     id="tspan30"><tspan
+   style="font-style:italic"
+   id="tspan3183">Marinobacter</tspan> sp. ELB17</tspan></text>
+
+
+
+<path
+   d="m 1332,-211 0,-70 258,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path32"
+   inkscape:connector-curvature="0" /><path
+   d="m 1213,-291 0,82 119,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path34"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text36"
+   x="-281.45401"
+   y="392"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1628.4706 1663.1549 1689.1553 1718.0677 1746.9801 1775.8926 1804.8051 1830.8574 1842.4016 1871.3141 1888.6302 1900.1743 1929.0869 1941.1681 1967.1685 1996.0807 2010.537 2022.6183 2054.3906 2094.8464 2112.1626 2146.8464 2181.5303 2221.9854"
+     sodipodi:role="line"
+     id="tspan38"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan3185">Pseudovibrio</tspan> sp. FO-BEG1</tspan></text>
+
+
+
+<path
+   d="m 1213,-295 0,-82 411,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path40"
+   inkscape:connector-curvature="0" /><path
+   d="m 1138,-423 0,130 75,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path42"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text44"
+   x="548.83801"
+   y="488"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1407.5731 1442.2577 1468.2581 1497.1704 1526.0829 1554.9951 1583.9077 1627.2762 1656.1887 1685.101 1714.0135 1740.0139 1749.2201 1775.2205 1804.1327 1818.589 1827.7952 1853.7955 1882.7078 1911.6204"
+     sodipodi:role="line"
+     id="tspan46"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan3187">Pseudomonas</tspan> sp. J465</tspan></text>
+
+
+
+<path
+   d="m 1149,-555 0,82 253,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path48"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text50"
+   x="-270.20322"
+   y="584"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1631.4191 1674.7356 1703.6482 1720.9644 1732.5084 1761.4209 1790.3335 1833.702 1862.6143 1891.5267 1920.4393 1946.4397 1957.1456 2000.5144 2029.4266 2058.3391 2069.8831 2084.3391 2113.251 2130.5671 2147.8831 2176.7952 2205.707 2234.6182 2263.5291 2274.2349 2317.5496 2360.8647 2395.5474 2412.8633"
+     sodipodi:role="line"
+     id="tspan52"><tspan
+   style="font-style:italic"
+   id="tspan3191">Marinomonas mediterranea</tspan> MMB-1</tspan></text>
+
+
+
+<path
+   d="m 1213,-639 0,70 405,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path54"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text56"
+   x="364.07166"
+   y="680"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1624.155 1667.4716 1696.3842 1713.7003 1725.2444 1754.1569 1783.0692 1826.438 1855.3502 1884.2628 1913.175 1939.1754 1951.6316 1977.632 2006.5446 2021.0005 2033.4568 2076.7729 2111.457 2149.001 2177.9131 2206.825"
+     sodipodi:role="line"
+     id="tspan58"><tspan
+   style="font-style:italic"
+   id="tspan3189">Marinomonas</tspan> sp. MED121</tspan></text>
+
+
+
+<path
+   d="m 1317,-711 0,46 297,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path60"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text62"
+   x="-389.45343"
+   y="776"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1527.829 1571.1458 1600.0581 1617.3745 1628.9186 1657.8308 1686.7434 1730.1119 1759.0244 1787.9369 1816.8492 1842.8496 1855.6808 1881.6812 1910.5935 1925.0497 1937.881 1981.1975 2030.2863 2064.9705 2093.8826"
+     sodipodi:role="line"
+     id="tspan64"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan3193">Marinomonas</tspan> sp. MWYL1</tspan></text>
+
+
+
+<path
+   d="m 1317,-715 0,-46 199,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path66"
+   inkscape:connector-curvature="0" /><path
+   d="m 1213,-643 0,-70 104,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path68"
+   inkscape:connector-curvature="0" /><path
+   d="m 1149,-559 0,-82 64,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path70"
+   inkscape:connector-curvature="0" /><path
+   d="m 1138,-427 0,-130 11,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path72"
+   inkscape:connector-curvature="0" /><path
+   d="m 986,-681 0,256 152,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path74"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text76"
+   x="598.4635"
+   y="872"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1455.1991 1492.7435 1521.656 1533.2002 1562.1124 1605.4812 1634.3936 1663.306 1692.2185 1718.2189 1726.4248 1752.4252 1781.3378 1795.7939 1803.9999 1841.5447 1873.317 1910.8616 1945.5461"
+     sodipodi:role="line"
+     id="tspan78"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan3195">Halomonas</tspan> sp. HTNK1</tspan></text>
+
+
+
+<path
+   d="m 1063,-939 0,82 380,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path80"
+   inkscape:connector-curvature="0" /><text
+   transform="matrix(1,0,0,-1,1390,-968)"
+   id="text82"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="0 31.6334 60.406799 92.040199 129.4456 166.851 201.39639 238.8018 267.5752 296.3486 330.89401 365.43939 394.2128 422.98621 454.6196 468.93701 497.71039 526.48383 555.2572 584.03058 591.12"
+     y="0"
+     sodipodi:role="line"
+     id="tspan84">F0FUDBH01AV88Z.gene 1 (5)*</tspan></text>
+
+
+
+<path
+   d="m 1372,-1023 0,70 0,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path86"
+   inkscape:connector-curvature="0" /><text
+   transform="matrix(1,0,0,-1,1433,-1064)"
+   id="text88"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="0 31.683399 60.506802 92.190201 129.6456 167.101 201.6964 239.15179 267.97519 296.79861 331.39401 360.21741 389.0408 429.4082 458.2316 472.599 501.42239 530.24579 559.06921 587.89258 595.03198"
+     y="0"
+     sodipodi:role="line"
+     id="tspan90">F0FUDBH01A14OL.gene 1 (2)*</tspan></text>
+
+
+
+<path
+   d="m 1415,-1095 0,46 0,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path92"
+   inkscape:connector-curvature="0" /><text
+   transform="matrix(1,0,0,-1,1433,-1160)"
+   id="text94"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="0 31.433399 60.006802 97.212196 134.4176 162.991 203.1084 231.68179 260.25519 288.82861 326.034 360.37939 374.4968 403.07019 431.64359 445.76099 474.33441 502.90781 531.4812 560.05463 566.94397"
+     y="0"
+     sodipodi:role="line"
+     id="tspan96">F0DU8Q402HVI77.gene 1 (11)*</tspan></text>
+
+
+
+<path
+   d="m 1415,-1099 0,-46 0,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path98"
+   inkscape:connector-curvature="0" /><path
+   d="m 1372,-1027 0,-70 43,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path100"
+   inkscape:connector-curvature="0" /><path
+   d="m 1063,-943 0,-82 309,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path102"
+   inkscape:connector-curvature="0" /><path
+   d="m 986,-685 0,-256 77,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path104"
+   inkscape:connector-curvature="0" /><path
+   d="m 932,-960 0,277 54,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path106"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text108"
+   x="795.46332"
+   y="1256"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1656.2019 1690.8865 1716.8868 1742.8872 1768.8876 1797.7998 1815.1161 1844.0286 1872.941 1901.8534 1927.8538 1942.3099 1971.2225 1988.5387 1998.7449 2024.7452 2053.6575 2068.1135 2078.3196 2104.3196 2133.2314 2162.1436"
+     sodipodi:role="line"
+     id="tspan110"><tspan
+   style="font-style:italic"
+   id="tspan3197">Psychrobacter</tspan> sp. J466</tspan></text>
+
+
+
+<path
+   d="m 932,-964 0,-277 708,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path112"
+   inkscape:connector-curvature="0" /><path
+   d="m 801,-1171 0,209 131,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path114"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text116"
+   x="-610.57697"
+   y="1352"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1274.6133 1309.2979 1338.2101 1355.5262 1381.5266 1410.4392 1439.3517 1450.8958 1479.8083 1508.7206 1526.0367 1537.5811 1566.4934 1577.8246 1606.7371 1650.1056 1679.0179 1690.5623 1705.0183 1733.9308 1751.2469 1762.7913 1791.7036 1803.0348 1837.7191 1881.0359 1924.3524"
+     sodipodi:role="line"
+     id="tspan118"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan3199">Burkholderia ambifaria</tspan> AMMD</tspan></text>
+
+
+
+<path
+   d="m 859,-1383 0,46 410,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path120"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text122"
+   x="-760.70679"
+   y="1448"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1236.8536 1271.538 1283.0822 1311.9946 1340.9072 1358.2234 1387.1359 1398.6799 1424.6803 1453.5927 1482.5051 1494.0492 1522.9618 1566.3303 1577.2308 1591.6871 1609.0033 1637.9158 1666.8282 1678.3724 1689.9165 1700.817 1738.3616 1778.8181 1816.3627 1845.2751 1874.1876"
+     sodipodi:role="line"
+     id="tspan124"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan3201">Sinorhizobium fredii</tspan> NGR234</tspan></text>
+
+
+
+<path
+   d="m 859,-1387 0,-46 372,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path126"
+   inkscape:connector-curvature="0" /><path
+   d="m 801,-1175 0,-210 58,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path128"
+   inkscape:connector-curvature="0" /><path
+   d="m 151,-1349 0,176 650,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path130"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text132"
+   x="-481.42676"
+   y="1544"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="813.81726 851.36169 880.27429 909.18658 938.099 967.01141 995.92395 1024.8363 1050.8367 1065.2927 1094.2052 1111.5214 1140.4338 1166.4342 1195.3466 1224.259 1253.1715 1264.2943 1293.2068 1322.119 1348.1194 1362.5757 1391.4879 1408.8043 1420.3485 1449.261 1492.6295 1503.7522 1538.4368 1567.3494 1604.8938 1633.8063"
+     sodipodi:role="line"
+     id="tspan134">Rhodobacteraceae bacterium KLH11</tspan></text>
+
+
+
+<path
+   d="m 151,-1353 0,-176 652,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path136"
+   inkscape:connector-curvature="0" /><path
+   d="m 80,-1510 0,159 71,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path138"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text140"
+   x="-1405.8278"
+   y="1640"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="503.66318 541.20764 552.75208 581.66437 610.57678 627.89301 656.80536 682.80597 711.71826 740.63055 769.54303 798.45563 824.45569 838.91193 867.82422 885.14069 897.15228 923.15259 952.06512 963.60925 992.52155 1021.4341 1050.3467 1062.3583 1099.9028 1131.6752 1160.5878 1172.5994 1201.5118"
+     sodipodi:role="line"
+     id="tspan142"><tspan
+   style="font-style:italic"
+   id="tspan3203">Dinoroseobacter shibae </tspan>DFL 12</tspan></text>
+
+
+
+<path
+   d="m 382,-1671 0,46 109,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path144"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text146"
+   x="-731.29987"
+   y="1736"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="519.66321 557.20728 586.1192 615.03143 643.94324 672.85516 690.1712 701.71527 730.6272 742.24994 771.16193 800.07379 843.44263 872.35492 889.67133 918.58356 944.58392 956.12799 967.75092 1005.2957 1039.9801 1074.6644 1091.9808"
+     sodipodi:role="line"
+     id="tspan148"><tspan
+   style="font-style:italic"
+   id="tspan3205">Ruegeria pomeroyi</tspan> DSS-3</tspan></text>
+
+
+
+<path
+   d="m 382,-1675 0,-46 128,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path150"
+   inkscape:connector-curvature="0" /><path
+   d="m 80,-1514 0,-159 302,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path152"
+   inkscape:connector-curvature="0" /><path
+   d="m 40,-1662 0,150 40,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path154"
+   inkscape:connector-curvature="0" /><text
+   transform="scale(1,-1)"
+   id="text156"
+   x="484.95026"
+   y="1832"
+   style="font-size:12px"><tspan
+     style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1647.9769 1682.6615 1708.6619 1734.6622 1763.5748 1792.4871 1809.8032 1821.3475 1847.3479 1876.2603 1887.8043 1916.7168 1926.973 1952.9734 1981.8857 1993.4298 2004.9742 2015.2302 2049.9148 2078.8267 2107.7388"
+     sodipodi:role="line"
+     id="tspan158"><tspan
+   style="font-style:italic"
+   id="tspan3207">Escherichia coli</tspan> E482</tspan></text>
+
+
+
+<path
+   d="m 40,-1666 0,-151 1600,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path160"
+   inkscape:connector-curvature="0" /><text
+   transform="matrix(1,0,0,-1,314,-1731)"
+   id="text162"><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="0 23.464001"
+     y="0"
+     sodipodi:role="line"
+     id="tspan164">96</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="-231 -207.536"
+     y="-401"
+     sodipodi:role="line"
+     id="tspan166">52</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1033 1056.464"
+     y="-576"
+     sodipodi:role="line"
+     id="tspan168">72</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="966 989.96399 1013.928"
+     y="-648"
+     sodipodi:role="line"
+     id="tspan170">100</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="1075 1098.964 1122.928"
+     y="-1615"
+     sodipodi:role="line"
+     id="tspan172">100</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="477 500.46399"
+     y="-288"
+     sodipodi:role="line"
+     id="tspan174">49</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="395 418.96399 442.92801"
+     y="-579"
+     sodipodi:role="line"
+     id="tspan176">100</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="950 973.46399"
+     y="-1543"
+     sodipodi:role="line"
+     id="tspan178">82</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="935 958.46399"
+     y="-960"
+     sodipodi:role="line"
+     id="tspan180">70</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="681 704.46399"
+     y="-732"
+     sodipodi:role="line"
+     id="tspan182">30</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="550 573.46399"
+     y="-790"
+     sodipodi:role="line"
+     id="tspan184">51</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="604 627.46399"
+     y="-1069"
+     sodipodi:role="line"
+     id="tspan186">19</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="831 854.46399"
+     y="-1459"
+     sodipodi:role="line"
+     id="tspan188">42</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="831 854.46399"
+     y="-1032"
+     sodipodi:role="line"
+     id="tspan190">43</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="756 779.46399"
+     y="-1327"
+     sodipodi:role="line"
+     id="tspan192">60</tspan><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="774 797.46399"
+     y="-1116"
+     sodipodi:role="line"
+     id="tspan194">19</tspan></text>
+
+
+
+<path
+   d="m 240,-1952 280,0"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path196"
+   inkscape:connector-curvature="0" /><path
+   d="m 240,-1936 0,-32"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path198"
+   inkscape:connector-curvature="0" /><path
+   d="m 520,-1936 0,-32"
+   style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+   id="path200"
+   inkscape:connector-curvature="0" /><text
+   transform="matrix(1,0,0,-1,348,-2012)"
+   id="text202"><tspan
+     style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="0 25.964001 39.695999"
+     y="0"
+     sodipodi:role="line"
+     id="tspan204">0.1</tspan></text>
+
+
+
+<g
+   id="g206" /></g><path
+       style="fill:none;stroke:#000000;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 458.20519,557.29722 0,45.82051"
+       id="path3869"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" /><text
+       xml:space="preserve"
+       style="font-size:11.19999981px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+       x="491.25623"
+       y="-577.1933"
+       id="text3871"
+       sodipodi:linespacing="125%"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan3873"
+         x="491.25623"
+         y="-577.1933">MAR-dddD</tspan></text>
+<path
+       style="fill:none;stroke:#000000;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 442.09149,396.1656 0,46.38621"
+       id="path3869-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" /><text
+       xml:space="preserve"
+       style="font-size:11.19999981px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+       x="475.31885"
+       y="-416.36133"
+       id="text3871-4"
+       sodipodi:linespacing="125%"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan3873-9"
+         x="475.31885"
+         y="-416.36133">OL-dddD</tspan></text>
+</g></svg>

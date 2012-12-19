@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="Figure4_CNS_cycle_just_profile_graphs.svg"
+   sodipodi:docname="Figure4_CNS_cycles.svg"
    inkscape:version="0.48.3.1 r9886"
    version="1.1"
    id="svg2"
@@ -25,13 +25,13 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="328.12991"
-     inkscape:cy="867.80765"
+     inkscape:cy="387.80765"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
-     inkscape:window-width="1631"
-     inkscape:window-height="1026"
+     inkscape:window-width="1871"
+     inkscape:window-height="1056"
      inkscape:window-x="49"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1313,7 +1313,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1390,7 +1390,7 @@
          id="tspan3446-7"
          x="159.72723"
          y="439.76193"
-         style="font-size:12px">Fixation (<tspan
+         style="font-size:12px">N fixation (<tspan
    style="font-style:italic;-inkscape-font-specification:Arial Bold Italic"
    id="tspan3409">nifH<tspan
    style="font-style:normal;-inkscape-font-specification:Arial Bold"
@@ -1418,7 +1418,7 @@
            x="276.04132"
            id="tspan10002-9-1-8-8"
            sodipodi:role="line"
-           style="font-size:12px;font-style:normal;font-weight:bold;-inkscape-font-specification:Arial Bold">Mineralization (<tspan
+           style="font-size:12px;font-style:normal;font-weight:bold;-inkscape-font-specification:Arial Bold">S mineralization (<tspan
    style="font-style:italic"
    id="tspan3333">sseA</tspan>)</tspan></text>
     </g>
@@ -1497,7 +1497,7 @@
          x="306.25092"
          y="717.0791"
          id="tspan4497"
-         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Arial Bold">Sulfur oxidation (<tspan
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Arial Bold">S oxidation (<tspan
    style="font-style:italic;-inkscape-font-specification:Arial Bold Italic"
    id="tspan3343">soxAB</tspan>)</tspan></text>
     <g
@@ -1782,7 +1782,7 @@
          id="tspan3446-7-2"
          x="159.53809"
          y="572.46765"
-         style="font-size:12px;font-style:normal;-inkscape-font-specification:Arial Bold">Dissimilatory </tspan><tspan
+         style="font-size:12px;font-style:normal;-inkscape-font-specification:Arial Bold">Dissimilatory N </tspan><tspan
          sodipodi:role="line"
          x="157.87402"
          y="587.46765"
@@ -1819,26 +1819,26 @@
          id="tspan3446-7-2-2-1"
          x="455.3916"
          y="572.46765"
-         style="font-size:12px">Mineralization/</tspan><tspan
+         style="font-size:12px">N mineralization/</tspan><tspan
          sodipodi:role="line"
          x="455.3916"
          y="587.46765"
          style="font-size:12px"
-         id="tspan4147">Assimilation (<tspan
+         id="tspan4147">assimilation (<tspan
    style="font-style:italic"
    id="tspan4145">gdhA</tspan>)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:13.25591278px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
-       x="611.10254"
+       x="609.10254"
        y="572.46765"
        id="text3444-1-2-0-5-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="611.10254"
+         x="609.10254"
          y="572.46765"
          style="font-size:12px"
-         id="tspan4147-5">Assimilation (<tspan
+         id="tspan4147-5">N assimilation (<tspan
    style="font-style:italic"
    id="tspan4179">glnB</tspan>, <tspan
    style="font-style:italic"
@@ -1886,7 +1886,7 @@
          x="456.67578"
          y="716.96765"
          id="tspan4497-9-0"
-         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Arial Bold">Sulfur oxidation (<tspan
+         style="font-size:12px;font-weight:bold;-inkscape-font-specification:Arial Bold">S oxidation (<tspan
    style="font-style:italic;-inkscape-font-specification:Arial Bold Italic"
    id="tspan3435">soxCD</tspan>)</tspan></text>
     <image

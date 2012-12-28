@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="375"
+     inkscape:cy="615.50402"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="543.5,56"
+       orientation="0,744.09448"
+       id="guide2985" />
+    <sodipodi:guide
+       position="687.5,1068.5"
+       orientation="-1052.3622,0"
+       id="guide2987" />
+    <sodipodi:guide
+       position="502,999"
+       orientation="0,-744.09448"
+       id="guide2989" />
+    <sodipodi:guide
+       position="56.5,1052.3622"
+       orientation="1052.3622,0"
+       id="guide2991" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2.5390623e-6)">
+    <g
+       transform="matrix(1.25,0,0,-1.25,89.457084,712.54277)"
+       inkscape:label="dddP_profile_genbank3_trim1_NJ1"
+       id="g3378">
+      <g
+         transform="matrix(0.1855,0,0,0.1858,0,401)"
+         id="g3380">
+        <text
+           id="text3382"
+           transform="scale(1,-1)"
+           x="-597.43256"
+           y="104"
+           style="font-size:12px">
+          <tspan
+             id="tspan3384"
+             sodipodi:role="line"
+             x="843.62183 881.16669 910.07886 936.07928 964.9917 993.90405 1022.8165 1051.7288 1077.7291 1092.1854 1121.0979 1138.4141 1149.2987 1175.2991 1204.2117 1218.6678 1229.5526 1264.2369 1298.9215 1327.834 1356.7462 1385.6588 1402.975 1431.8875 1449.2036"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic"
+   id="tspan3713">Roseobacter</tspan>
+ sp. SK209-2-6</tspan>
+        </text>
+        <path
+           id="path3386"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 716,-135 0,46 109,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3388"
+           transform="scale(1,-1)"
+           x="-637.68323"
+           y="200"
+           style="font-size:12px">
+          <tspan
+             id="tspan3390"
+             sodipodi:role="line"
+             x="816.10553 853.64996 882.56256 911.47479 940.38745 969.29962 986.61584 998.16016 1027.0724 1037.3618 1066.2744 1095.1869 1138.5554 1167.4677 1184.7841 1213.6964 1239.6968 1251.2411 1261.5305 1299.0751 1333.7596 1368.444 1385.7604"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic"
+   id="tspan3711">Ruegeria pomeroyi</tspan>
+ DSS-3</tspan>
+        </text>
+        <path
+           id="path3392"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 716,-139 0,-46 86,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3394"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 662,-207 0,70 54,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3396"
+           transform="scale(1,-1)"
+           x="-239.66664"
+           y="296"
+           style="font-size:12px">
+          <tspan
+             id="tspan3398"
+             sodipodi:role="line"
+             x="800.82404 838.36792 867.28003 896.19196 925.10388 954.01599 971.33215 982.87585 1011.788 1022.0775 1048.0779 1076.9904 1091.4464 1101.7358 1133.5084 1176.825 1205.7373 1234.6498 1263.5624"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic"
+   id="tspan3709">Ruegeria</tspan>
+ sp. TM1040</tspan>
+        </text>
+        <path
+           id="path3400"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 662,-211 0,-70 124,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3402"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 641,-291 0,82 21,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3404"
+           transform="scale(1,-1)"
+           x="-502.68036"
+           y="392"
+           style="font-size:12px">
+          <tspan
+             id="tspan3406"
+             sodipodi:role="line"
+             x="888.19415 925.73859 954.65118 980.65149 1009.5638 1038.4763 1067.3887 1096.3011 1122.3015 1136.7578 1165.67 1182.9862 1194.8175 1223.73 1252.6422 1281.5548 1293.0989 1307.5552 1324.8713 1336.4154 1350.8717 1362.4158 1388.4161 1417.3286 1446.241 1472.2413 1484.0725 1524.5292 1562.0739 1590.9862 1602.8174 1631.7296 1660.6422"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic"
+   id="tspan3707">Roseobacter denitrificans</tspan>
+ OCh 114</tspan>
+        </text>
+        <path
+           id="path3408"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 641,-295 0,-82 227,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3410"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 566,-405 0,112 75,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3412"
+           transform="scale(1,-1)"
+           x="-480.17899"
+           y="488"
+           style="font-size:12px">
+          <tspan
+             id="tspan3414"
+             sodipodi:role="line"
+             x="868.69702 906.24146 935.15399 961.15436 990.06696 1018.9792 1045.0316 1073.9442 1091.2604 1102.8044 1131.7169 1157.7173 1168.5068 1197.4191 1226.3315 1255.2441 1266.7882 1295.7004 1324.613 1336.1571 1365.0696 1393.9819 1422.8944 1448.8948 1459.6842 1474.1405 1508.8248"
+             style="font-size:52px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan3705">Roseovarius nubinhibens</tspan>
+ ISM</tspan>
+        </text>
+        <path
+           id="path3416"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 651,-519 0,46 205,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3418"
+           transform="scale(1,-1)"
+           x="-512.80719"
+           y="584"
+           style="font-size:12px">
+          <tspan
+             id="tspan3420"
+             sodipodi:role="line"
+             x="919.67682 957.22125 986.13379 1015.0461 1043.9586 1072.8708 1101.7834 1130.6957 1156.696 1171.1523 1200.0648 1217.381 1246.2936 1257.8376 1286.7499 1312.7502 1321.9208 1350.8334 1379.7456 1405.746 1420.2023 1449.1145 1466.4309 1477.975 1506.8876 1550.2561 1559.4266 1596.9711 1628.7435 1666.288 1703.8325 1732.745 1761.6575 1790.5698"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic"
+   id="tspan3715">Rhodobacterales</tspan>
+ bacterium HTCC2150</tspan>
+        </text>
+        <path
+           id="path3422"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 651,-523 0,-46 250,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3424"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 566,-409 0,-112 85,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3426"
+           transform="scale(1,-1)"
+           x="-422.55673"
+           y="680"
+           style="font-size:12px">
+          <tspan
+             id="tspan3428"
+             sodipodi:role="line"
+             x="987.44489 1024.9894 1053.9019 1079.9022 1108.8146 1137.7271 1163.7794 1192.6917 1210.0081 1221.5522 1250.4645 1276.4648 1286.921 1312.9214 1341.834 1356.2899 1366.7462 1395.6587 1424.5709"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic"
+   id="tspan3717">Roseovarius</tspan>
+ sp. 217</tspan>
+        </text>
+        <path
+           id="path3430"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 950,-711 0,46 24,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3432"
+           transform="scale(1,-1)"
+           x="-114.29539"
+           y="776"
+           style="font-size:12px">
+          <tspan
+             id="tspan3434"
+             sodipodi:role="line"
+             x="1003.3539 1040.8986 1069.811 1095.8114 1124.7236 1153.6362 1179.6886 1208.6008 1225.9172 1237.4614 1266.3737 1292.374 1300.9969 1326.9973 1355.9095 1370.3658 1378.9888 1410.7612 1454.0778 1482.9902 1511.9025 1540.8151"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic"
+   id="tspan3703">Roseovarius</tspan>
+ sp. TM1035</tspan>
+        </text>
+        <path
+           id="path3436"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 950,-715 0,-46 39,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3438"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 669,-819 0,106 281,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3440"
+           transform="matrix(1,0,0,-1,1658,-872)">
+          <tspan
+             id="tspan3442"
+             sodipodi:role="line"
+             y="0"
+             x="0 31.333401 59.806801 96.912201 134.01759 162.491 202.50841 230.9818 259.4552 287.92859 325.034 359.27939 387.75281 421.9462 456.19159 470.20901 498.6824 527.15582 555.62921 584.1026 590.89203"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">F0DU8Q402HB7XS.gene 1 (1)*</tspan>
+        </text>
+        <path
+           id="path3444"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 1119,-927 0,70 521,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3446"
+           transform="matrix(1,0,0,-1,1197,-968)">
+          <tspan
+             id="tspan3448"
+             sodipodi:role="line"
+             y="0"
+             x="0 31.583401 60.306801 100.5742 137.9296 163.741 192.4644 226.95979 255.6832 284.40659 315.98999 344.71341 384.9808 413.70419 442.42761 456.69501 485.4184 514.14178 542.86517 571.58862 578.62799"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">F0QNJ4P02F9O37.gene 1 (1)*</tspan>
+        </text>
+        <path
+           id="path3450"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 1179,-999 0,46 0,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3452"
+           transform="matrix(1,0,0,-1,1197,-1064)">
+          <tspan
+             id="tspan3454"
+             sodipodi:role="line"
+             y="0"
+             x="0 31.2834 59.706799 96.762199 133.8176 162.241 202.2084 230.63181 259.05521 287.47861 301.44601 338.5014 366.9248 392.43619 432.40359 446.371 474.7944 503.2178 531.64117 560.06458 566.80402"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">F0DU8Q402IN9JO.gene 1 (3)*</tspan>
+        </text>
+        <path
+           id="path3456"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 1179,-1003 0,-46 0,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3458"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 1119,-931 0,-70 60,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3460"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 669,-823 0,-106 450,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3462"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 566,-559 0,-262 103,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3464"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 566,-293 0,-262"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3466"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 556,-873 0,316 10,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3468"
+           transform="scale(1,-1)"
+           x="-149.92064"
+           y="1160"
+           style="font-size:12px">
+          <tspan
+             id="tspan3470"
+             sodipodi:role="line"
+             x="978.39502 1018.8516 1044.8519 1059.3082 1088.2207 1117.1331 1146.0455 1172.0459 1200.9581 1229.8707 1258.783 1284.7833 1299.2396 1328.1521 1345.4683 1356.7577 1385.6703 1402.9865 1428.9868 1443.443 1454.9872 1480.9875 1509.9 1535.9004 1547.1898 1576.1022 1605.0146"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic"
+   id="tspan3701">Octadecabacter arcticus</tspan>
+ 238</tspan>
+        </text>
+        <path
+           id="path3472"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 642,-1191 0,46 320,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3474"
+           transform="scale(1,-1)"
+           x="-1199.7126"
+           y="1256"
+           style="font-size:12px">
+          <tspan
+             id="tspan3476"
+             sodipodi:role="line"
+             x="942.55865 977.24298 1006.1555 1035.0679 1063.9801 1092.8927 1121.8049 1150.7174 1176.7178 1191.1741 1220.0864 1237.4028 1249.8588 1278.7712 1307.6836 1319.2279 1330.772 1359.6843 1388.5968 1414.5972 1426.1412 1455.0538 1483.9661 1509.9664 1521.5107 1547.5111 1559.9672 1597.5118 1632.1962 1675.5129 1687.969 1716.8815 1745.7937 1774.7063 1803.6188"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic"
+   id="tspan3699">Phaeobacter gallaeciensis</tspan>
+ DSM 17395</tspan>
+        </text>
+        <path
+           id="path3478"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 642,-1195 0,-46 288,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3480"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 556,-877 0,-316 86,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3482"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 436,-1128 0,253 120,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3484"
+           transform="scale(1,-1)"
+           x="-53.667301"
+           y="1352"
+           style="font-size:12px">
+          <tspan
+             id="tspan3486"
+             sodipodi:role="line"
+             x="992.15735 1018.1575 1047.0697 1075.9823 1104.8945 1133.8071 1159.8075 1185.8079 1214.7203 1226.2644 1255.1768 1266.7997 1292.8 1321.7123 1336.1686 1347.7915 1385.3361 1422.8805 1457.5651"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic"
+   id="tspan3697">Jannaschia</tspan>
+ sp. CCS1</tspan>
+        </text>
+        <path
+           id="path3488"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 453,-1383 0,46 519,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3490"
+           transform="scale(1,-1)"
+           x="-351.80786"
+           y="1448"
+           style="font-size:12px">
+          <tspan
+             id="tspan3492"
+             sodipodi:role="line"
+             x="1079.2504 1108.163 1119.707 1148.6195 1177.5319 1206.4443 1215.329 1244.2415 1261.5576 1290.47 1304.9261 1333.8387 1362.751 1391.6635 1420.5758 1446.5762 1461.0323 1489.9449 1507.2611 1518.8052 1547.7177 1591.0863 1599.9709 1637.5156 1669.2881 1706.8325 1744.377 1773.2896 1802.202 1831.1143"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">alpha proteobacterium HTCC2255</tspan>
+        </text>
+        <path
+           id="path3494"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 453,-1387 0,-46 609,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3496"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 436,-1132 0,-253 17,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3498"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 40,-1372 0,242 396,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3500"
+           transform="scale(1,-1)"
+           x="640.20673"
+           y="1544"
+           style="font-size:12px">
+          <tspan
+             id="tspan3502"
+             sodipodi:role="line"
+             x="1651.2495 1691.7061 1717.7064 1746.6188 1775.5312 1804.4435 1815.9879 1859.3564 1888.2689 1917.1812 1946.0938 1972.0941 1981.8 2010.7125 2039.6251 2068.5371 2097.4492 2126.3611 2143.6772 2172.5891 2187.0452 2201.5012 2213.0452"
+             style="font-size:52px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan3695">Oceanimonas doudoroffii</tspan>
+ (dddP2)</tspan>
+        </text>
+        <path
+           id="path3504"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 233,-1617 0,88 1407,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3506"
+           transform="scale(1,-1)"
+           style="font-size:12px;font-style:normal;-inkscape-font-specification:Arial"
+           x="-145.79089"
+           y="1640">
+          <tspan
+             id="tspan3508"
+             sodipodi:role="line"
+             x="865.24072 905.69666 931.69666 960.60889 989.52075 1018.4327 1029.9768 1073.3453 1102.2578 1131.17 1160.0826 1186.083 1195.7889 1224.7014 1253.6139 1282.5262 1311.4387 1340.351 1357.6674 1386.5797 1401.0359 1415.4922 1427.0364"
+             style="font-size:52px;font-style:normal;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic;-inkscape-font-specification:Arial Italic;font-weight:bold"
+   id="tspan3693">Oceanimonas doudoroffii</tspan>
+ (dddP1)</tspan>
+        </text>
+        <path
+           id="path3510"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 452,-1707 0,82 402,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3512"
+           transform="scale(1,-1)"
+           x="-409.9342"
+           y="1736"
+           style="font-size:12px">
+          <tspan
+             id="tspan3514"
+             sodipodi:role="line"
+             x="1064.2799 1098.9642 1124.9646 1153.8772 1182.7894 1200.1058 1229.0182 1240.5625 1252.1066 1263.6508 1292.5632 1318.5636 1328.1863 1357.0988 1374.4149 1400.4153 1426.4156 1455.328 1484.2405 1493.8632 1531.408 1545.8639 1580.5485 1609.4611"
+             style="font-size:52px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan3689">Aspergillus oryzae</tspan>
+ RIB40</tspan>
+        </text>
+        <path
+           id="path3516"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 991,-1791 0,70 56,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3518"
+           transform="scale(1,-1)"
+           x="-265.18277"
+           y="1832"
+           style="font-size:12px">
+          <tspan
+             id="tspan3520"
+             sodipodi:role="line"
+             x="1154.2231 1194.6798 1206.2239 1235.1361 1264.0487 1292.9612 1310.2773 1339.1896 1350.734 1362.2781 1391.1903 1401.2181 1427.2185 1456.1307 1485.0432 1513.9556 1523.9833 1558.6676 1596.2123 1613.5284"
+             style="font-size:52px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+   style="font-style:italic"
+   id="tspan3687">Gibberella zeae</tspan>
+ PH-1</tspan>
+        </text>
+        <path
+           id="path3522"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 1108,-1863 0,46 32,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3524"
+           transform="scale(1,-1)"
+           x="-262.6813"
+           y="1928"
+           style="font-size:12px">
+          <tspan
+             id="tspan3526"
+             sodipodi:role="line"
+             x="1118.3364 1150.1088 1179.0214 1205.0217 1233.934 1251.2504 1262.7944 1291.7068 1335.0756 1344.7817 1370.7821 1399.6943 1411.2385 1454.6073 1483.5195 1500.8359 1529.7482"
+             style="font-size:52px;font-style:italic;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">Fusarium culmorum</tspan>
+        </text>
+        <path
+           id="path3528"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 1108,-1867 0,-46 0,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3530"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 991,-1795 0,-70 117,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3532"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 452,-1711 0,-82 539,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3534"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 233,-1621 0,-88 219,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3536"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 40,-1376 0,-243 193,0"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3538"
+           transform="matrix(1,0,0,-1,1040,-1923)">
+          <tspan
+             id="tspan3540"
+             sodipodi:role="line"
+             y="0"
+             x="0 23.464001"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">99</tspan>
+          <tspan
+             id="tspan3542"
+             sodipodi:role="line"
+             y="-72"
+             x="-141 -117.036 -93.071999"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">100</tspan>
+          <tspan
+             id="tspan3544"
+             sodipodi:role="line"
+             y="-156"
+             x="-656 -632.53601"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">71</tspan>
+          <tspan
+             id="tspan3546"
+             sodipodi:role="line"
+             y="-1231"
+             x="-182 -158.036 -134.07201"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">100</tspan>
+          <tspan
+             id="tspan3548"
+             sodipodi:role="line"
+             y="-1807"
+             x="-392 -368.53601"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">80</tspan>
+          <tspan
+             id="tspan3550"
+             sodipodi:role="line"
+             y="-1344"
+             x="-457 -433.53601"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">79</tspan>
+          <tspan
+             id="tspan3552"
+             sodipodi:role="line"
+             y="-1735"
+             x="-446 -422.53601"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">46</tspan>
+          <tspan
+             id="tspan3554"
+             sodipodi:role="line"
+             y="-480"
+             x="-655 -631.53601"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">45</tspan>
+          <tspan
+             id="tspan3556"
+             sodipodi:role="line"
+             y="-672"
+             x="-466 -442.53601"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">45</tspan>
+          <tspan
+             id="tspan3558"
+             sodipodi:role="line"
+             y="-814"
+             x="-696 -672.03601 -648.07202"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">100</tspan>
+          <tspan
+             id="tspan3560"
+             sodipodi:role="line"
+             y="-1651"
+             x="-467 -443.53601"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">35</tspan>
+          <tspan
+             id="tspan3562"
+             sodipodi:role="line"
+             y="-1069"
+             x="-552 -528.53601"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">39</tspan>
+          <tspan
+             id="tspan3564"
+             sodipodi:role="line"
+             y="-1387"
+             x="-534 -510.53601"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">16</tspan>
+          <tspan
+             id="tspan3566"
+             sodipodi:role="line"
+             y="-1044"
+             x="-439 -415.53601"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">40</tspan>
+          <tspan
+             id="tspan3568"
+             sodipodi:role="line"
+             y="-864"
+             x="71 94.463997"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">90</tspan>
+          <tspan
+             id="tspan3570"
+             sodipodi:role="line"
+             y="-936"
+             x="-13 10.964 34.928001"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">100</tspan>
+        </text>
+        <path
+           id="path3572"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 240,-2056 133,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3574"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 240,-2040 0,-32"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3576"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           d="m 373,-2040 0,-32"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3578"
+           transform="matrix(1,0,0,-1,262,-2116)">
+          <tspan
+             id="tspan3580"
+             sodipodi:role="line"
+             y="0"
+             x="0 25.130671 38.029339 63.160011"
+             style="font-size:44px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">0.05</tspan>
+        </text>
+        <g
+           id="g3582" />
+      </g>
+    </g>
+  </g>
+</svg>
